@@ -3,7 +3,7 @@ flows:
     author: anonymous, created: 1690807500815, flowName: git, flowDesc: ''}
   8baedf36-0634-4998-88fe-aaf025fa04f0: {ver: 1, file: 1.snapshot, comments: '', author: anonymous,
     created: 1690808206285, flowName: '1', flowDesc: ''}
-  925a68fb-6e4b-4f03-8f7b-e9acc216415d: {ver: 1, file: b.snapshot, comments: '', author: anonymous,
-    created: 1690807632719, flowName: b, flowDesc: ''}
+  925a68fb-6e4b-4f03-8f7b-e9acc216415d: {ver: 2, file: b.snapshot, comments: '1',
+    author: anonymous, created: 1690808408496, flowName: b, flowDesc: ''}
 layoutVer: 1
 bucketId: 1737d239-a469-48d9-8804-56b71d2761f6
